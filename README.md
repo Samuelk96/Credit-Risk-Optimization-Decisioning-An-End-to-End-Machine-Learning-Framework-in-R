@@ -28,3 +28,5 @@ credit-risk-ml-framework-r/
 └── outputs/
     ├── figures/                          # Gráficas generadas (ROC, SHAP, Cut-off, Score dist)
     └── reports/                          # Tablas resumen de gobernanza y estrategia
+![Curva ROC](outputs/figures/04_roc_curves.png)
+![Optimizacion Cutoff](outputs/figures/05_cutoff_optimization.png)
